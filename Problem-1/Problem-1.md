@@ -13,11 +13,15 @@ Note that an empty string is also considered valid.
 Input: "()"  
 Output: true
 
+![image](https://github.com/yousefbaz12/Problem-Solving/assets/106428761/9bde1cf5-4bac-4fcd-9fdb-f97a7f4ff80b)
+
 Input: "()[]{}"  
 Output: true
 
 Input: "(]"  
 Output: false
+
+![image (1)](https://github.com/yousefbaz12/Problem-Solving/assets/106428761/55181c01-c3b4-4e8b-a0b9-3ea5fb5f781f)
 
 ### Approach
 
