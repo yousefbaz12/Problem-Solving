@@ -22,11 +22,17 @@ Feel free to explore the solutions and use them as a reference or learning resou
 
 The repository is organized as follows:
 ├── problem-1
+
 │ ├── problem-1.md
+
 │ ├── solution.cpp
+
 ├── problem-2
+
 │ ├── problem-2.md
+
 │ ├── solution.cpp
+
 └── ...
 
 Each problem has its own directory named `problem-n` (where `n` represents the problem number). Inside each problem directory, you will find the following files:
