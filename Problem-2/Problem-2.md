@@ -1,5 +1,8 @@
 ## Problem: Baseball Game
 
+![1_oMMZ2ZcLPHghLOvjNUZ1_g](https://github.com/yousefbaz12/Problem-Solving/assets/106428761/4de305cd-edc6-434a-9227-20ee4a93ab3f)
+
+
 You are keeping score for a baseball game. The game consists of several rounds, where players earn points. Each round's score is represented by a string. The scores are based on the following rules:
 
 1. The round score could be one of the following:
